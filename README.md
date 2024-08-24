@@ -1,4 +1,5 @@
-CARSALES_DASHBOARD_1
+CARSALES_DASHBOARD_1:
+
 ![image alt](https://github.com/user-attachments/assets/42579120-52c1-4162-a225-c05245143f21)
 
 The dashboard above highlights trends in sum of the selling prices, total number of cars sold for various car brands from 1994 to 2020.
