@@ -1,4 +1,4 @@
-CARSALES_DASHBOARD_1:
+Carsales_Dashboard_1
 
 ![image alt](https://github.com/user-attachments/assets/42579120-52c1-4162-a225-c05245143f21)
 
@@ -25,3 +25,8 @@ Key Insights:The pie chart shows the sum of the selling price over the fuel type
 5.YEAR WISE SALES:
 
 Key Insights:the vertical bar graph shows the selling price over the years.Among all the years 2019 has the highest selling price.The selling price of the cars are increasing from 1994 to 2019,but the selling price is decreases in 2020 it mightbe due to corona lockdown.
+
+Name:N.Lavanya
+Email:naramsettilavanya0614@gmail.com
+Linkedin:www.linkedin.com/in/naramsetti-lavanya-10349a2bb
+
