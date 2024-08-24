@@ -27,6 +27,8 @@ Key Insights:The pie chart shows the sum of the selling price over the fuel type
 Key Insights:the vertical bar graph shows the selling price over the years.Among all the years 2019 has the highest selling price.The selling price of the cars are increasing from 1994 to 2019,but the selling price is decreases in 2020 it mightbe due to corona lockdown.
 
 Name:N.Lavanya
+
 Email:naramsettilavanya0614@gmail.com
+
 Linkedin:www.linkedin.com/in/naramsetti-lavanya-10349a2bb
 
